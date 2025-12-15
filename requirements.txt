@@ -1,0 +1,21 @@
+Personal Budget & Expense Tracker (Finance Sector)
+
+Project Overview:
+This is a Python-based application using Tkinter to simulate a personal expense tracking tool. It allows users to log transactions with a date, amount, category, and description, and maintains a running simulated balance.
+
+Features:
+1. Input transaction amount, date (YYYY-MM-DD), category, and description.
+2. Validates that the amount is positive and numeric.
+3. Validates that the date is in the correct format and not in the future.
+4. Calculates and displays the running simulated balance.
+5. Displays a log of all recorded transactions.
+
+Testing Focus:
+The application is designed to support Black Box Testing with a focus on:
+- Financial Data Integrity (correct amount and date validation).
+- Calculation accuracy of the running balance.
+- Error handling for invalid inputs.
+
+Installation:
+1. Python 3.x required.
+2. Run the application: python main.py

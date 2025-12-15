@@ -1,0 +1,16 @@
+Total test cases as included in the report = 12
+
+The following are all the test cases tested for the Personal Budget & Expense Tracker application (Finance Sector):
+
+1. Valid Transaction Add (mid-range amount and valid date)
+2. Negative Amount Input
+3. Non-Numeric Amount Input
+4. Future Date Input
+5. Missing Category Field
+6. Calculation Accuracy Check (Sequential transactions totaling balance)
+7. Boundary: Zero Amount (0.00)
+8. Missing Date Field
+9. Invalid Date Format (e.g., MMDDYYYY format)
+10. High-Value Transaction (Stress test amount input)
+11. Decimal Amount (More than two decimal places)
+12. Missing Description (Optional field check)
